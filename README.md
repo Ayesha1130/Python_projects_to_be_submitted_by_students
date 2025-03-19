@@ -66,7 +66,7 @@ Welcome to my **Python Projects Repository**! This repository contains 9 Python 
 Feel free to fork this repository and submit a pull request with any improvements or fixes. Contributions are welcome!
 
 ## 📬 Contact
-For any questions or suggestions, feel free to reach out to me at [your_email@example.com](mailto:your_email@example.com).
+For any questions or suggestions, feel free to reach out to me at https://www.linkedin.com/in/ayesha-iqbal-2613402b4/.
 
 
 
